@@ -43,7 +43,7 @@
     "eslint": "^9.23.0",
     "eslint-define-config": "^2.1.0",
     "eslint-plugin-vue": "^10.0.0",
-    "jsdom": "^26.0.0",
+    "jsdom": "^26.1.0",
     "msw": "^2.7.3",
     "nyc": "^17.1.0",
     "playwright": "^1.51.1",
