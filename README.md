@@ -207,24 +207,3 @@ Nous encourageons les contributions à **EffiTask** ! Pour contribuer, suivez ce
 5. Soumettez une pull request avec une description détaillée des changements.
 
 ---
-
-## **Licence**
-
-EffiTask est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
-
-### **Exemple de section qualité logicielle détaillée :**
-
-```markdown
-## **Qualité Logicielle**
-
-EffiTask respecte les bonnes pratiques pour garantir une qualité de code optimale :
-
-- **Test-Driven Development (TDD)** : Nous pratiquons TDD pour toutes les nouvelles fonctionnalités. Les tests sont écrits avant l'implémentation de la fonctionnalité.
-- **Code Review** : Chaque contribution passe par une revue de code pour s'assurer de la qualité du code et de la conformité aux standards.
-- **Pair Programming** : Certaines tâches sont réalisées en pair programming pour favoriser l'échange de connaissances et assurer une meilleure qualité du code.
-- **Couverture de tests** : Un objectif de couverture de tests de 90 % est maintenu, avec un focus sur les tests unitaires et d'intégration.
-```
-
----
